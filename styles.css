@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400&family=Dosis:wght@400;600&family=Lato:wght@100&family=Ms+Madi&family=Nunito:wght@300&family=Oswald:wght@200;700&family=Poppins:ital,wght@0,300;1,200&family=Radio+Canada&family=Raleway:wght@200&family=Roboto:wght@300;400;500;700&family=Square+Peg&family=Work+Sans:wght@500&family=Zen+Loop:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+@media screen and (max-width:1320px)
+{
+.contacto{
+    width: 100%;
+    height: 54px;
+    background-color: #F8CB2E; 
+} 
+         
+}
+.contacto ul li {
+    display: inline; 
+    float: right;   
+    margin-top: 15px; 
+    padding-left: 12px;
+    font-family: 'Dosis', sans-serif;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header {
+   list-style: none;
+   margin-top: 20px;
+}
+.navg ul li{
+    display: block;
+    float: right ;
+    padding: 18px;
+    font-family: 'Dosis', sans-serif;
+    margin-top: -48px;
+
+}
+.banner {
+    text-align: center;
+    margin-top: 50px;
+}
+.imagenn{
+    margin-left: -65px;
+}
+h3{
+    color: white;
+    font-family:'Paytone One', sans-serif;
+    margin-top: -190px;
+    margin-left: -490px;
+}
+.cuadro{
+    width: 20px;
+    height: 50px;
+    display: flex;
+    margin-left: 80px;
+ 
+}
+.map{
+    
+    margin-left: -70px;
+    margin-top: 60px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Paytone One', sans-serif;
+    margin-top: -230px;
+    color: white;
+
+}
+.busque{
+    text-align: center;
+   
+}
+.botton-submit{
+    height:60px;
+    width: 100px;     
+    margin-left: 681px;
+    margin-top: -30px;  
+
+  
+}
+button{
+    background-color: #F8CB2E;
+    border: none;
+}
+input{
+    width: 320px;
+    height: 40px;
+    margin-top: 35px;
+}
+
+.pollo{
+    margin-top: -173px;
+}
+.inner-footer{
+    width: 100%;
+    background-color: gray;
+   
+  
+}
+.listas ul {
+    text-decoration: none;
+    margin-top: 50px;
+    color: white;
+}
+
+.list ul li{
+    text-align: center;
+    list-style: none;
+    margin-top: -220px;
+    color: white;
+}
+.social5 ul {
+    float: right;
+    margin-top: -220px;
+    color: white;
+    list-style: none;
+}
+.list a{
+    color: white;
+}
+.listas a{
+    color: white;
+}
+h6{
+    color: #413F42;
+    list-style: none;
+    margin-left: 15px;
+    font-family: 'Paytone One', sans-serif;
+}
+.social5 a{
+    color: white;
+}
+.link{
+    display: inline;
+    font-size: 25px;
+    padding-left: 12px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    
+    
+}
+.link i li {
+    padding-left: 20px;
+    
+}
+.social5::after{
+    content:'';
+    position: absolute;
+    background-color: #85C1E9;
+    width: 3px;
+    height: 90%;
+    bottom: 0;
+    right:55px;
+}
